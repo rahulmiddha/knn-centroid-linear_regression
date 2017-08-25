@@ -1,0 +1,2 @@
+- Place the MATLAB files in the libSVM folder and run the main program.
+- To choose a classifier comment out the others. 
